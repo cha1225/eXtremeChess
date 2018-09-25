@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasChess_Unity_9_Video", "CanvasChess_Unity_9_Video.csproj", "{AD57B11A-5D25-2CE1-FBA1-4EB052956CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanvasChess_Unity_9_Video.Editor", "CanvasChess_Unity_9_Video.Editor.csproj", "{C56D2705-DF6A-CB69-36B8-2C74993C6790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD57B11A-5D25-2CE1-FBA1-4EB052956CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD57B11A-5D25-2CE1-FBA1-4EB052956CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD57B11A-5D25-2CE1-FBA1-4EB052956CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD57B11A-5D25-2CE1-FBA1-4EB052956CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C56D2705-DF6A-CB69-36B8-2C74993C6790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C56D2705-DF6A-CB69-36B8-2C74993C6790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C56D2705-DF6A-CB69-36B8-2C74993C6790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C56D2705-DF6A-CB69-36B8-2C74993C6790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
